@@ -39,3 +39,6 @@ Instead of traditional reactive customer service, this prototype detects custome
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/TeleCare_AI_Concierge.git
+cd TeleCare_AI_Concierge
+pip install -r requirements.txt
+streamlit run telecare_app_v3.py
